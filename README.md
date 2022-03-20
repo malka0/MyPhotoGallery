@@ -1,2 +1,2 @@
 ## MyPhotoGallery
-Unfinished, Unsecure demo app
+Unfinished, unsecure demo app
